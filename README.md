@@ -1,8 +1,7 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/71/5c/58/715c585f6a62f0869de90fa244aa80d8.gif" width="260" />
-  <img src="https://i.pinimg.com/originals/8d/b4/3f/8db43f746be5c500d71e4fc5f8c9f9d0.gif" width="130" />
+  <img src="https://i.pinimg.com/originals/8d/b4/3f/8db43f746be5c500d71e4fc5f8c9f9d0.gif" width="260" />
 </p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Alex;Fullstack+Developer;Telegram+Bots+%7C+Mini+Apps+%7C+AI+%7C+Web" alt="Typing SVG" />
@@ -42,10 +41,10 @@
 
 ## 💜 What I build
 
-💜 Telegram bots: education, parsers, notification systems  
-💜 Telegram Mini Apps with custom frontend  
-💜 AI integrations (LLM, prompt analysis, assistants)  
-💜 Web dashboards and internal tools for automation  
+💜 Telegram bots — education, parsers, notification systems  
+💜 Telegram Mini Apps — custom frontend  
+💜 AI integrations — LLM, prompt analysis, assistants  
+💜 Web dashboards — internal tools for automation  
 
 ---
 
@@ -62,8 +61,8 @@ _(check pinned repositories below 👇)_
 ## 💜 Anime / vibe zone
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/71/5c/58/715c585f6a62f0869de90fa244aa80d8.gif" width="520" />
-  <img src="https://i.pinimg.com/originals/8d/b4/3f/8db43f746be5c500d71e4fc5f8c9f9d0.gif" width="260" />
+  <img src="https://i.pinimg.com/originals/71/5c/58/715c585f6a62f0869de90fa244aa80d8.gif" width="300" />
+  <img src="https://i.pinimg.com/originals/8d/b4/3f/8db43f746be5c500d71e4fc5f8c9f9d0.gif" width="300" />
 </p>
 
 ---
