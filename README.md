@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Alex;Fullstack+Developer;Telegram+Bots+%7C+Mini+Apps+%7C+AI+%7C+Web" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <strong>Fullstack Developer · Telegram Bots & Mini Apps · Web Apps · AI</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Alex;Fullstack+Developer;Telegram+Bots+%7C+Mini+Apps+%7C+AI+%7C+Web" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,14 +19,8 @@
 ## 💜 About me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=8A2BE2&center=true&vCenter=true&width=900&lines=I+build+Telegram+bots+(AI,+parsers,+payments,+automation);I+create+Telegram+Mini+Apps+with+custom+UI;I+develop+web+apps+(TeachAI,+dashboards,+landing+pages);Working+with+LLMs+(LLaMA,+GigaChat,+GPT);Contact:+https://t.me/wayzzoo" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1400&color=8A2BE2&center=true&vCenter=true&width=1000&lines=I+build+Telegram+bots+(AI%2C+parsers%2C+payments%2C+automation);I+create+Telegram+Mini+Apps+with+custom+UI;I+develop+web+apps+(TeachAI%2C+dashboards%2C+landing+pages);Working+with+LLMs+(LLaMA%2C+GigaChat%2C+GPT)+in+real+projects;Contact%3A+https%3A%2F%2Ft.me%2Fwayzzoo" alt="About me" />
 </p>
-
-- 🤖 I build **Telegram bots** (AI, parsers, payments, automation)  
-- 📱 I create **Telegram Mini Apps** with custom UI  
-- 🌐 I develop **web apps** (TeachAI, dashboards, landing pages)  
-- 🧠 Working with **LLMs (LLaMA, GigaChat, GPT)** in real projects  
-- 📫 Contact: **https://t.me/wayzzoo**
 
 ---
 
@@ -44,10 +34,9 @@
 
 ## 💜 What I build
 
-- Telegram bots: education, parsers, notification systems  
-- Telegram Mini Apps with custom frontend  
-- AI integrations (LLM, prompt analysis, assistants)  
-- Web dashboards and internal tools for automation  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1400&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Telegram+bots%3A+education%2C+parsers%2C+notification+systems;Telegram+Mini+Apps+with+custom+frontend;AI+integrations+(LLM%2C+prompt+analysis%2C+assistants);Web+dashboards+and+internal+tools+for+automation" alt="What I build" />
+</p>
 
 ---
 
@@ -57,7 +46,7 @@
 - 🤖 **TG-CHAT-BOT-LLM** – LLaMA3-based Telegram bot for prompt training  
 - 📊 **tg-parse_test** – Telegram parser / automation tool  
 
-_(see pinned repositories below 👇)_
+_(check pinned repositories below 👇)_
 
 ---
 
@@ -80,9 +69,9 @@ _(see pinned repositories below 👇)_
 ## 💜 Anime / vibe zone
 
 <p align="center">
-  <!-- сюда подставь свои фиолетовые аниме-гифки -->
-  <img src="https://your-first-purple-anime-gif-url.gif" width="260" />
-  <img src="https://your-second-purple-anime-gif-url.gif" width="260" />
+  <!-- ПОДСТАВЬ СЮДА свои фиолетовые аниме-гифки -->
+  <img src="https://your-first-purple-anime-gif.gif" width="260" />
+  <img src="https://your-second-purple-anime-gif.gif" width="260" />
 </p>
 
 <p align="center">
@@ -91,4 +80,6 @@ _(see pinned repositories below 👇)_
 
 ---
 
-<h3 align="center">💬 Open to freelance & collabs (Telegram / Web / AI)</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1400&color=8A2BE2&center=true&vCenter=true&width=800&lines=Open+to+freelance+and+collabs+(Telegram+%2F+Web+%2F+AI)" alt="Freelance" />
+</p>
