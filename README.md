@@ -70,7 +70,7 @@ _(check pinned repositories below 👇)_
 
 <p align="center">
   <!-- ПОДСТАВЬ СЮДА свои фиолетовые аниме-гифки -->
-  <img src="https://your-first-purple-anime-gif.gif" width="260" />
+  <img src="[https://your-first-purple-anime-gif.gif](https://i.pinimg.com/originals/71/5c/58/715c585f6a62f0869de90fa244aa80d8.gif)" width="260" />
   <img src="https://your-second-purple-anime-gif.gif" width="260" />
 </p>
 
