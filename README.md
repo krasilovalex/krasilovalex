@@ -52,20 +52,4 @@ _(see pinned repositories below 👇)_
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krasilovalex&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krasilovalex&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krasilovalex&layout=compact&theme=nightowl" />
-</p>
-
----
-
 <h3 align="center">💬 Open to freelance & collabs (Telegram / Web / AI)</h3>
