@@ -1,3 +1,7 @@
+<img src="banner.png" />
+
+
+
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Fullstack Developer · Telegram Bots & Mini Apps · Web Apps · AI</h3>
 
