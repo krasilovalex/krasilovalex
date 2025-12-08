@@ -22,6 +22,10 @@
 
 ## 💜 About me
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=8A2BE2&center=true&vCenter=true&width=900&lines=I+build+Telegram+bots+(AI,+parsers,+payments,+automation);I+create+Telegram+Mini+Apps+with+custom+UI;I+develop+web+apps+(TeachAI,+dashboards,+landing+pages);Working+with+LLMs+(LLaMA,+GigaChat,+GPT);Contact:+https://t.me/wayzzoo" />
+</p>
+
 - 🤖 I build **Telegram bots** (AI, parsers, payments, automation)  
 - 📱 I create **Telegram Mini Apps** with custom UI  
 - 🌐 I develop **web apps** (TeachAI, dashboards, landing pages)  
