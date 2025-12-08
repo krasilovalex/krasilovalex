@@ -70,8 +70,8 @@ _(check pinned repositories below 👇)_
 
 <p align="center">
   <!-- ПОДСТАВЬ СЮДА свои фиолетовые аниме-гифки -->
-  <img src="https://i.pinimg.com/originals/71/5c/58/715c585f6a62f0869de90fa244aa80d8.gif" width="260" />
-  <img src="https://i.pinimg.com/originals/8d/b4/3f/8db43f746be5c500d71e4fc5f8c9f9d0.gif" width="320" />
+  <img src="https://i.pinimg.com/originals/71/5c/58/715c585f6a62f0869de90fa244aa80d8.gif" width="520" />
+  <img src="https://i.pinimg.com/originals/8d/b4/3f/8db43f746be5c500d71e4fc5f8c9f9d0.gif" width="260" />
 </p>
 
 <p align="center">
