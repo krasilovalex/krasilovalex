@@ -11,6 +11,28 @@
   <img src="https://img.shields.io/github/followers/krasilovalex?label=Followers&style=flat&color=7b2cbf" />
 </p>
 
+## 💜 Currently working on
+
+### 💜 TeachAI
+💜 Telegram Mini App for learning AI & Python  
+💜 AI mentor, tasks, XP, prompt training  
+🔗 https://github.com/krasilovalex/TeachAI  
+
+---
+
+### 💜 TG-CHAT-BOT-LLM
+💜 LLaMA3-based Telegram bot for prompt training  
+💜 AI assistant, dialogs, training modes  
+🔗 https://github.com/krasilovalex/TG-CHAT-BOT-LLM  
+
+---
+
+### 💜 tg-parse_test
+💜 Telegram parser & automation tool  
+💜 Data collection, filters, exports  
+🔗 https://github.com/krasilovalex/tg-parse_test  
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Telegram-Bots-8a2be2?style=for-the-badge&logo=telegram&logoColor=white" />
