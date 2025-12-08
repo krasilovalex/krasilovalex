@@ -19,14 +19,14 @@
 </p>
 
 ---
-
 ## 💜 About me
 
 💜 I build **Telegram bots** (AI, parsers, payments, automation)  
 💜 I create **Telegram Mini Apps** with custom UI  
 💜 I develop **web apps** (TeachAI, dashboards, landing pages)  
 💜 Working with **LLMs (LLaMA, GigaChat, GPT)** in real projects  
-💜 Contact: **https://t.me/wayzzoo**
+💜 Contact: https://t.me/wayzzoo  
+
 
 ---
 
