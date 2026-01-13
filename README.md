@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">Back-end Developer · I learning Golang</h3>
+<h3 align="center">Golang Backend Developer 🚀</h3>
+
+<p align="center">
+  Разрабатываю быстрые и масштабируемые бэкенды, Telegram-ботов и Mini Apps.
+  <br>
+  <i>Focusing on clean code, concurrency & microservices.</i>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krasilovalex&label=Profile%20views&color=8a2be2&style=flat" />
@@ -7,44 +13,53 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Telegram-Bots-8a2be2?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mini-Apps-6a0dad?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-LLM-7b2cbf?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web-Apps-5a189a?style=for-the-badge" />
+  <a href="https://t.me/wayzzoo">
+    <img src="https://img.shields.io/badge/Telegram-DM_Me-8a2be2?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About me
-- 📫 Contact: **https://t.me/wayzzoo**
+## 🛠 Tech Stack
 
----
-
-## 🛠 Tech stack
+Я использую современные инструменты для создания производительного софта:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,git,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,postgres,docker,git,linux,bash,postman,figma&theme=dark" />
 </p>
 
 ---
 
-## 🔧 What I build
+## ⚡ What I build with Go
 
-- Telegram bots: education, parsers, notification systems  
-- Telegram Mini Apps with custom frontend  
-- AI integrations (LLM, prompt analysis, assistants)  
-- Web dashboards and internal tools for automation  
+Я специализируюсь на автоматизации и интеграции AI в экосистему Telegram:
 
----
-
-## 📌 Featured projects
-
-- 🧠 **TeachAI** – Telegram Mini App for learning AI & Python  
-- 🤖 **TG-CHAT-BOT-LLM** – LLaMA3-based Telegram bot for prompt training  
-- 📊 **tg-parse_test** – Telegram parser / automation tool  
-
-_(see pinned repositories below 👇)_
+- **High-performance Bots:** Образовательные платформы, парсеры и системы уведомлений на Go.
+- **Telegram Mini Apps:** Полноценные веб-приложения внутри Telegram (Custom Frontend + Go Backend).
+- **AI Integrations:** Внедрение LLM (LLaMA, GPT) и анализ промптов.
+- **Internal Tools:** Веб-дашборды и инструменты автоматизации.
 
 ---
 
-<h3 align="center">💬 Open to freelance & collabs (Telegram / Web / AI)</h3>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krasilovalex&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=8a2be2&icon_color=7b2cbf" alt="Alex's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krasilovalex&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=8a2be2&langs_count=6" alt="Top Langs" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+- 🧠 **TeachAI** – Telegram Mini App for learning AI & Python.
+- 🤖 **TG-CHAT-BOT-LLM** – LLaMA3-based Telegram bot for prompt training.
+- 📊 **tg-parse_test** – Telegram parser / automation tool.
+
+---
+
+<h3 align="center">
+  💬 Open to freelance & collabs<br>
+  <a href="https://t.me/wayzzoo">Contact me on Telegram</a>
+</h3>
