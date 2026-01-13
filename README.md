@@ -41,15 +41,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krasilovalex&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=8a2be2&icon_color=7b2cbf" alt="Alex's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krasilovalex&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=8a2be2&langs_count=6" alt="Top Langs" />
-</p>
-
----
 
 ## 📌 Featured Projects
 
