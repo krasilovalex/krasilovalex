@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">Fullstack Developer · Telegram Bots & Mini Apps · Web Apps · AI</h3>
+<h3 align="center">Back-end Developer · I learning Golang</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krasilovalex&label=Profile%20views&color=8a2be2&style=flat" />
@@ -16,11 +16,6 @@
 ---
 
 ## 🚀 About me
-
-- 🤖 I build **Telegram bots** (AI, parsers, payments, automation)
-- 📱 I create **Telegram Mini Apps** with custom UI
-- 🌐 I develop **web apps** (TeachAI, dashboards, landing pages)
-- 🧠 Working with **LLMs (LLaMA, GigaChat, GPT)** in real projects
 - 📫 Contact: **https://t.me/wayzzoo**
 
 ---
@@ -28,7 +23,7 @@
 ## 🛠 Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,js,ts,react,html,css,tailwind,git,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,git,figma&theme=dark" />
 </p>
 
 ---
