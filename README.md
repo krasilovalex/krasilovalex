@@ -22,7 +22,7 @@
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python, postgres,docker,git,linux,bash,postman,kafka,kubernetes,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,python,postgres,docker,git,linux,bash,postman,kafka,kubernetes,redis&theme=dark" />
 </p>
 
 ---
