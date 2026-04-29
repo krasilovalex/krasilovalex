@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">Golang Backend Developer 🚀</h3>
+<h3 align="center">Golang Backend Engineer 🚀</h3>
 
 <p align="center">
-  Разрабатываю быстрые и масштабируемые бэкенды, Telegram-ботов и Mini Apps.
+  I specialize in building highly scalable microservices, fault-tolerant B2B backends, and high-performance ETL pipelines.
   <br>
   <i>Focusing on clean code, concurrency & microservices.</i>
 </p>
@@ -21,36 +21,26 @@
 ---
 
 ## 🛠 Tech Stack
-
-Я использую современные инструменты для создания производительного софта:
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,postgres,docker,git,linux,bash,postman,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,python, postgres,docker,git,linux,bash,postman,kafka,kubernetes,redis&theme=dark" />
 </p>
 
 ---
 
 ## ⚡ What I build with Go
 
-Я специализируюсь на автоматизации и интеграции AI в экосистему Telegram:
-
-- **High-performance Bots:** Образовательные платформы, парсеры и системы уведомлений на Go.
-- **Telegram Mini Apps:** Полноценные веб-приложения внутри Telegram (Custom Frontend + Go Backend).
-- **AI Integrations:** Внедрение LLM (LLaMA, GPT) и анализ промптов.
-- **Internal Tools:** Веб-дашборды и инструменты автоматизации.
+I build core infrastructure for data-intensive applications:
+- **High-Load Microservices:** Transitioning legacy systems to fast, concurrent Go services (gRPC/REST)
+- **Data Engineering:** High-performance ETL parsers and aggregators dealing with massive data streams.
+- **AI Integrations:** Reliable backend architectures for LLM-based services (RAG, OpenAI API).
 
 ---
 
-
-## 📌 Featured Projects
-
-- 🧠 **TeachAI** – Telegram Mini App for learning AI & Python.
-- 🤖 **TG-CHAT-BOT-LLM** – LLaMA3-based Telegram bot for prompt training.
-- 📊 **tg-parse_test** – Telegram parser / automation tool.
-
----
 
 <h3 align="center">
   💬 Open to freelance & collabs<br>
   <a href="https://t.me/wayzzoo">Contact me on Telegram</a>
 </h3>
+
+
+🔒 Note: Most of my commercial work (2023–2026) is under strict NDA and hosted on internal enterprise Git servers (GitLab/Bitbucket). The repositories below are my personal tools, PoCs, and open-source contributions.
