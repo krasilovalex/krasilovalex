@@ -43,4 +43,3 @@ I build core infrastructure for data-intensive applications:
 </h3>
 
 
-🔒 Note: Most of my commercial work (2023–2026) is under strict NDA and hosted on internal enterprise Git servers (GitLab/Bitbucket). The repositories below are my personal tools, PoCs, and open-source contributions.
